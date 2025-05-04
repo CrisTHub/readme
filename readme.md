@@ -53,7 +53,8 @@ Aplicación desarrollada en **Power Apps** utilizando listas de **SharePoint** c
 
 ## 🔗 Autor
 
-Cristian Ñanco– Ingeniería en Informática  
+Estudiantes Ingenieria Ejecucion Informatica Mension Desarrollo de sistemas
+Cristian Ñanco
 Yobany La Cruz
 AIEP – Año 2025
 
