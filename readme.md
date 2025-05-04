@@ -26,12 +26,15 @@ Aplicación desarrollada en **Power Apps** utilizando listas de **SharePoint** c
 
 ### Lista: Departamento
 - `id_Departamento` (Número, clave primaria)
-- `Nombre` (Texto)
+- `NombreDepartamento` (Texto)
+- `UbicacionDepartamento` (Texto)
+- `PresupuestoDepartamento` (Texto)
+- `idJefe` (Relacion)
 
 ### Lista: Jefe
 - `id_Jefe` (Número)
-- `Nombre` (Texto)
-- `id_Departamento` (Relación)
+- `NombreJefe` (Texto)
+- `TelefonoJefe` (Texto)
 
 ### Lista: Empleado
 - `ID_Empleado` (Número, clave primaria)
