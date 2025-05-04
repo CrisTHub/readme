@@ -49,17 +49,15 @@ Aplicación desarrollada en **Power Apps** utilizando listas de **SharePoint** c
 ## 💾 Archivos incluidos
 
 - `ERP-DunderMifflin.msapp`: archivo exportado desde Power Apps.
-- `estructura_listas.md`: documento con el modelo de datos.
-- `conclusion.txt`: análisis final del proyecto.
 
 ---
 
-## 🔗 Autor
+## 🔗 Integrantes
 Estudiantes Ingenieria Ejecucion Informatica Mension Desarrollo de sistemas
-
+ISI601
 - Cristian Ñanco
 - Yobany La Cruz
 - AIEP – Año 2025
-
+Profesor: Juan Donoso Donoso
 ---
 
