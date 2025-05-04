@@ -48,7 +48,7 @@ Aplicación desarrollada en **Power Apps** utilizando listas de **SharePoint** c
 
 ## 💾 Archivos incluidos
 
-- `ERP-DunderMifflin.msapp`: archivo exportado desde Power Apps.
+- `GestionRRHH - copia.msapp`: archivo exportado desde Power Apps.
 
 ---
 
