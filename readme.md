@@ -25,24 +25,24 @@ Aplicación desarrollada en **Power Apps** utilizando listas de **SharePoint** c
 ## 🗃️ Estructura de Listas (SharePoint)
 
 ### Lista: Departamento
-- `id_Departamento` (Número, clave primaria)
+- `id_Departamento` (Número, PK)
 - `NombreDepartamento` (Texto)
 - `UbicacionDepartamento` (Texto)
 - `PresupuestoDepartamento` (Texto)
-- `idJefe` (Relacion)
+- `idJefe` (FK)
 
 ### Lista: Jefe
-- `id_Jefe` (Número)
+- `id_Jefe` (Número, PK)
 - `NombreJefe` (Texto)
 - `TelefonoJefe` (Texto)
 
 ### Lista: Empleado
-- `ID_Empleado` (Número, clave primaria)
+- `ID_Empleado` (Número, PK)
 - `NombreEmpleado` (Texto)
 - `ApellidoEmpleado` (Texto)
 - `Correo` (Texto)
 - `Teléfono` (Texto)
-- `id_Departamento` (Relación)
+- `id_Departamento` (FK)
 
 ---
 
